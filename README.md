@@ -3,7 +3,7 @@
 You can use the [editor on GitHub](https://github.com/Rileghft/click-site/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-[no css](http://127.0.0.1:8082/click?link_id=md&to=https://rileghft.github.io/click-site/)
+[no css](http://127.0.0.1:8082/click?link_id=md&to=https://rileghft.github.io/click-site/index.html)
 
 ### Markdown
 
